@@ -1,4 +1,16 @@
 
+
+
+@font-face {
+    font-family: "Imprint";
+    src: url("imprint.eot");
+    src: url("imprint.eot?#iefix") format("embedded-opentype"),
+         url("imprint.woff") format("woff"),
+         url("imprint.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
 html, body {
     margin: 0;
     padding:    0;
@@ -19,7 +31,7 @@ header h1, header p {
 }
 
 h1 {
-    font-family:    "Imprint MT Shadow";
+    font-family:    "Imprint", serif;
     font-size:      6em;
     font-weight:    normal;
     margin: 0;
