@@ -1,0 +1,31 @@
+
+html, body {
+    margin: 0;
+    padding:    0;
+}
+
+header {
+    background: #be2a26;
+    color:  #fff;
+    padding:    6em 0;
+}
+
+header .web {
+    color:  #dda;
+}
+
+header h1, header p {
+    text-align: center;
+}
+
+h1 {
+    font-family:    "Imprint MT Shadow";
+    font-size:      6em;
+    font-weight:    normal;
+    margin: 0;
+}
+
+header p {
+    font-family:    "Open Sans";
+}
+
