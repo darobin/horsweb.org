@@ -1,6 +1,4 @@
 
-
-
 @font-face {
     font-family: "Imprint";
     src: url("imprint.eot");
@@ -11,10 +9,22 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: "Open Sans";
+    src: url("OpenSans-CondLight.eot");
+    src: url("OpenSans-CondLight.eot?#iefix") format("embedded-opentype"),
+         url("OpenSans-CondLight.woff") format("woff"),
+         url("OpenSans-CondLight.ttf")  format("truetype"),
+         url("OpenSans-CondLight.svg#802dcb78fec1f63545a1c51edf3ba5e0") format("svg");
+    font-style:   normal;
+    font-weight:  200;
+}
+
+
 html, body {
     margin: 0;
     padding:    0;
-    font-family:    "Open Sans";
+    font-family:    "Open Sans", sans-serif;
     color:  #300;
 }
 

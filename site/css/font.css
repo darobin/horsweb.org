@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Open Sans Condensed Light';
+  src: url('OpenSans-CondLight.eot'); /* IE9 Compat Modes */
+  src: url('OpenSans-CondLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('OpenSans-CondLight.woff') format('woff'), /* Modern Browsers */
+       url('OpenSans-CondLight.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('OpenSans-CondLight.svg#802dcb78fec1f63545a1c51edf3ba5e0') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  200;
+}
+
